@@ -1,0 +1,5 @@
+openai-agents
+bedrock-agentcore
+boto3
+bedrock-agentcore-starter-toolkit
+uuid
