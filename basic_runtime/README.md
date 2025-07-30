@@ -2,7 +2,7 @@
 
 A Basic Example on Using AgentCore Runtime with OpenAI agent.
 
-For details, please refer to my blog: [Amazon Bedrock AgentCore. Part 1: Overview + Runtime Dive!]()
+For details, please refer to my blog: [Amazon Bedrock AgentCore. Part 1: Overview + Runtime Dive!](https://medium.com/@itsuki.enjoy/amazon-bedrock-agentcore-part-1-overview-runtime-dive-7c917ae32abd)
 
 ## Set Up & Deploy
 Make sure that the working directory is the `basic_runtime` directory and perform the following steps.
