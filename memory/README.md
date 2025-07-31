@@ -2,7 +2,7 @@
 
 A AgentCore Runtime with OpenAI agent using AgentCore memory for conversation history and summary.
 
-For more details or other potential use cases beyond Runtime/Agent (independently as a Database), please refer to my blog: [Bedrock AgentCore Part2: Memory. Raw Database + Vector store + Some EventBridge-ish Logics!]()
+For more details or other potential use cases beyond Runtime/Agent (independently as a Database), please refer to my blog: [Bedrock AgentCore Part2: Memory. Raw Database + Vector store + Some EventBridge-ish Logics!](https://medium.com/@itsuki.enjoy/bedrock-agentcore-part2-memory-raw-database-vector-store-some-eventbridge-ish-logics-594aad0389c0)
 
 
 ## Set Up & Deploy
