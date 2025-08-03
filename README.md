@@ -4,8 +4,9 @@ A collection of demo for [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/
 
 
 ## Demos Availble
-1. [Basic AgentCore Runtime](/basic_runtime/README.md)
-1. [Agent/Runtime + AgentCore  Memory](/memory/README.md)
+1. [Basic AgentCore Runtime](./basic_runtime/README.md)
+1. [Agent/Runtime + AgentCore Memory](./memory/README.md)
+1. [AgentCore Code Interpreter](./code_Interpreter/README.md)
 
 
 ## Common Set Up
