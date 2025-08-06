@@ -4,9 +4,16 @@ A collection of demo for [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/
 
 
 ## Demos Availble
+
+### AgentCore Basics
 1. [Basic AgentCore Runtime](./basic_runtime/README.md)
-1. [Agent/Runtime + AgentCore Memory](./memory/README.md)
-1. [AgentCore Code Interpreter](./code_Interpreter/README.md)
+2. [Agent/Runtime + AgentCore Memory](./memory/README.md)
+3. [AgentCore Code Interpreter](./code_Interpreter/README.md)
+
+
+### A Little Advance
+1. [Browser Task Automation (A simple Nova-act alternative)](./advance_usages/browser_automation.ipynb)
+
 
 
 ## Common Set Up
