@@ -1,6 +1,6 @@
-# Basic AgentCore Runtime Demo
+# AgentCore Code Interpreter Demo
 
-A Basic Example on Using AgentCore Code Interpreter.
+Examples on Using AgentCore Code Interpreter.
 
 For details, please refer to my blog: [Bedrock AgentCore Part 3: Code Interpreter Beyond Code Execution!](https://medium.com/@itsuki.enjoy/bedrock-agentcore-part-3-code-interpreter-beyond-code-execution-70d3c6fbb1ab)
 
